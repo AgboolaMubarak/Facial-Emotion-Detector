@@ -19,7 +19,7 @@ It's built with Python, **OpenCV**, and the **DeepFace** library for analysis, w
 
 **1. Clone the Repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AgboolaMubarak/Facial-Emotion-Detector.git
 cd <your-project-folder>
 ```
 
